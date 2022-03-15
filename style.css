@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Ewert&display=swap');
+
+
+body{
+    background-color: blueviolet;
+}
+
+div{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: mediumblue;
+    font-family: Ewert;
+}
+
+h3{
+    text-align: center;
+}
